@@ -32,7 +32,7 @@ namespace ConsoleApp1
                         task4();
                         break;
                     }
-               
+            
                 default:
                     {
                         Console.WriteLine("Такого завдання немає");
@@ -59,5 +59,6 @@ namespace ConsoleApp1
             Task4.Run();
         }
 
+   
     }
 }
